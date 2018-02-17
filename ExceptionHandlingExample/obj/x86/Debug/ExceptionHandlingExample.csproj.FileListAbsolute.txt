@@ -1,0 +1,5 @@
+D:\Practice\ExceptionHandlingExample\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.exe
+D:\Practice\ExceptionHandlingExample\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.pdb
+D:\Practice\ExceptionHandlingExample\ExceptionHandlingExample\obj\x86\Debug\ExceptionHandlingExample.exe
+D:\Practice\ExceptionHandlingExample\ExceptionHandlingExample\obj\x86\Debug\ExceptionHandlingExample.pdb
+D:\Practice\ExceptionHandlingExample\ExceptionHandlingExample\obj\x86\Debug\ExceptionHandlingExample.csprojResolveAssemblyReference.cache
